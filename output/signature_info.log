@@ -1,0 +1,101 @@
+2025-03-21 01:06:55,711 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 01:06:55,714 - INFO - ReportLab library is installed. PDF generation is available.
+2025-03-21 01:06:55,714 - INFO - Generating new RSA key pair...
+2025-03-21 01:06:55,895 - INFO - RSA key pair generated and saved to output\keys\private_key.pem and output\keys\public_key.pem
+2025-03-21 01:06:55,957 - INFO - Digital Signature System initialized successfully
+2025-03-21 01:06:55,957 - INFO - Created sample file: output\confidential_document.txt
+2025-03-21 01:06:55,963 - INFO - Created sample file: output\confidential_document.txt
+2025-03-21 01:06:55,968 - INFO - Document signed. Signature saved to output\confidential_document.txt.sig
+2025-03-21 01:06:55,981 - INFO - Created PDF document: output\secret_plans.pdf
+2025-03-21 01:06:55,983 - INFO - Created sample file: output\secret_plans.pdf
+2025-03-21 01:06:55,984 - INFO - Created sample file: output\secret_plans.pdf
+2025-03-21 01:06:56,005 - INFO - Document signed. Signature saved to output\secret_plans.pdf.sig
+2025-03-21 01:06:56,015 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:06:56,023 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:06:56,024 - INFO - 
+--- VERIFYING ORIGINAL DOCUMENT ---
+2025-03-21 01:06:56,026 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:06:56,028 - INFO - 
+--- VERIFYING MODIFIED DOCUMENT WITH ORIGINAL SIGNATURE ---
+2025-03-21 01:06:56,031 - WARNING - ❌ Signature verification failed! Document may have been tampered with.
+2025-03-21 01:06:56,033 - INFO - 
+--- VERIFYING ORIGINAL DOCUMENT ---
+2025-03-21 01:06:56,035 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:06:56,042 - INFO - Created tampered PDF document: output\secret_plans_modified.pdf
+2025-03-21 01:06:56,043 - INFO - 
+--- VERIFYING MODIFIED DOCUMENT WITH ORIGINAL SIGNATURE ---
+2025-03-21 01:06:56,055 - WARNING - ❌ Signature verification failed! Document may have been tampered with.
+2025-03-21 01:23:42,864 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 01:25:14,601 - INFO - ReportLab library is installed. PDF generation is available.
+2025-03-21 01:25:14,647 - INFO - Digital Signature System initialized successfully
+2025-03-21 01:25:14,658 - INFO - Document signed. Signature saved to output\confidential_document.txt.sig
+2025-03-21 01:25:14,661 - INFO - Document signed. Signature saved to output\secret_plans.pdf.sig
+2025-03-21 01:25:14,672 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:25:14,678 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:25:26,331 - INFO - ReportLab library is installed. PDF generation is available.
+2025-03-21 01:25:26,368 - INFO - Digital Signature System initialized successfully
+2025-03-21 01:25:26,371 - INFO - Document signed. Signature saved to output\confidential_document.txt.sig
+2025-03-21 01:25:26,375 - INFO - Document signed. Signature saved to output\secret_plans.pdf.sig
+2025-03-21 01:25:26,384 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 01:25:26,389 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 21:33:24,566 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 21:35:56,006 - INFO - ReportLab library is installed. PDF generation is available.
+2025-03-21 21:35:56,109 - INFO - Digital Signature System initialized successfully
+2025-03-21 21:35:56,129 - INFO - Document signed. Signature saved to output\confidential_document.txt.sig
+2025-03-21 21:35:56,153 - INFO - Document signed. Signature saved to output\secret_plans.pdf.sig
+2025-03-21 21:35:56,162 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 21:35:56,185 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 21:35:56,185 - INFO - 
+--- VERIFYING ORIGINAL DOCUMENT ---
+2025-03-21 21:35:56,191 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 21:35:56,194 - INFO - 
+--- VERIFYING MODIFIED DOCUMENT WITH ORIGINAL SIGNATURE ---
+2025-03-21 21:35:56,205 - WARNING - ❌ Signature verification failed! Document may have been tampered with.
+2025-03-21 21:35:56,212 - INFO - 
+--- VERIFYING ORIGINAL DOCUMENT ---
+2025-03-21 21:35:56,215 - INFO - ✅ Signature verification successful! Document is authentic and unmodified.
+2025-03-21 21:35:56,232 - INFO - Created tampered PDF document: output\secret_plans_modified.pdf
+2025-03-21 21:35:56,232 - INFO - 
+--- VERIFYING MODIFIED DOCUMENT WITH ORIGINAL SIGNATURE ---
+2025-03-21 21:35:56,250 - WARNING - ❌ Signature verification failed! Document may have been tampered with.
+2025-03-21 21:58:56,740 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 21:59:49,843 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:00:29,073 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:00:29,073 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:04:54,814 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:05:08,631 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:05:08,631 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:11,285 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:11,285 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:11,285 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:19,088 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:19,088 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:19,088 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:19,088 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:52,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:52,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:52,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:52,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:06:52,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:00,096 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:00,096 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:00,096 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:00,096 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:00,096 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:00,096 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:14,613 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:07:19,765 - INFO - Digital Signature System logging initialized successfully
+2025-03-21 22:09:03,151 - INFO - Digital Signature System logging initialized successfully

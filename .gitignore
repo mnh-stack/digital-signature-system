@@ -1,0 +1,26 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment (if used)
+venv/
+env/
+
+# Ignore generated outputs (signatures, logs, modified documents)
+output/
+output/keys/
+*.log
+*.sig
+*.b64
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code workspace settings (if using VS Code)
+.vscode/
