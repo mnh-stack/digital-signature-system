@@ -23,4 +23,6 @@ output/keys/
 Thumbs.db
 
 # Ignore VS Code workspace settings (if using VS Code)
-.vscode/
+.vscode
+
+/output/keys/private_key.pem
